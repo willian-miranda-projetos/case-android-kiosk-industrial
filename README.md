@@ -5,7 +5,7 @@
 Este projeto documenta a implementação de um **ambiente Android controlado (kiosk)** para uso operacional no **Estaleiro Mauá**.
 
 O objetivo foi disponibilizar o sistema **SCP**  
-🔗 https://scp.estaleiromaua.ind.br  
+🔗 https://scp.estaleiro.com.br (ficticio)  
 
 em dispositivos móveis **Lenovo**, permitindo que **coordenadores de equipes** auxiliem clientes no processo de:
 - criação de pedidos
@@ -90,14 +90,8 @@ Após testes com diversas abordagens (WebView, Custom Tabs, MDM, Android Enterpr
 
 ---
 
-## 📷 Evidências
-
-> *(Inserir imagens do tablet em uso no estaleiro / mockups ilustrativos)*
-
----
-
 ## 🧑‍💻 Autor
 
-Projeto implementado e documentado por  
+Projeto implementado e documentado por Willian Miranda 
 **Analista de Suporte / Infraestrutura**  
 Estaleiro Mauá
